@@ -9,5 +9,5 @@ Luego, subimos los siguintes archivos:
 - google_colab_config.yaml
 - TrainYolov8CustomDataset.ipynb
 
-Posteriormente subimos la carpeta "data", la cual contiene nuestro dataset
+Posteriormente subimos la carpeta "data" disponible en el siguiente link, la cual contiene nuestro dataset
 Abrimos el segundo archivo con Google Colab, y ejecutamos cada linea para entrenar el modelo.
