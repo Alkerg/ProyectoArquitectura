@@ -10,6 +10,7 @@ Luego, subimos los siguintes archivos:
 - TrainYolov8CustomDataset.ipynb
 
 Posteriormente subimos la carpeta "data" disponible en el siguiente link, la cual contiene nuestro dataset
-Abrimos el segundo archivo con Google Colab, y ejecutamos cada linea para entrenar el modelo.
 
 https://drive.google.com/drive/folders/1hoRKcQNNuxM30iBF0TR2h6jpTavnMZQF?usp=sharing
+
+Abrimos el segundo archivo con Google Colab, y ejecutamos cada linea para entrenar el modelo.
