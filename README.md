@@ -15,4 +15,4 @@ https://drive.google.com/drive/folders/1hoRKcQNNuxM30iBF0TR2h6jpTavnMZQF?usp=sha
 
 Abrimos el segundo archivo con Google Colab, y ejecutamos cada linea para entrenar el modelo.
 
-Finalmente descargamos el modelo ubicado en runs/detect/train/weights/best.pt
+Finalmente descargamos el modelo ubicado en *runs/detect/train/weights/best.pt*
