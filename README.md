@@ -14,3 +14,5 @@ Posteriormente subimos la carpeta "data" disponible en el siguiente link, la cua
 https://drive.google.com/drive/folders/1hoRKcQNNuxM30iBF0TR2h6jpTavnMZQF?usp=sharing
 
 Abrimos el segundo archivo con Google Colab, y ejecutamos cada linea para entrenar el modelo.
+
+Finalmente descargamos el modelo ubicado en runs/detect/train/weights/best.pt
