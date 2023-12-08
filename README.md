@@ -4,10 +4,8 @@ Detector de latas usando YOLO V8
 
 # Entrenamiento
 
-Para entrenar el modelo debemos crear una carpeta en GoogleDrive, por ejemplo, "Colab Notebooks".
-Luego, subimos los siguintes archivos:
-- google_colab_config.yaml
-- TrainYolov8CustomDataset.ipynb
+Para entrenar el modelo debemos importar nuestro dataset en forma de directorio con nombre "entrenamiento",
+a continuación, creamos un notebook con Google Colaboratory y lo guardamos en el directorio "entrenamiento".
 
 Posteriormente subimos la carpeta "data" disponible en el siguiente link, la cual contiene nuestro dataset
 
