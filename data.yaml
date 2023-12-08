@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['lata']
+
+roboflow:
+  workspace: albert-argumedo-ye8cj
+  project: deteccion-de-latas
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/albert-argumedo-ye8cj/deteccion-de-latas/dataset/2
