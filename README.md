@@ -12,4 +12,4 @@ de dicho archivo, crear un notebook en el directorio **"entrenamiento"** y pegar
 
 3) Ejecutamos cada celda del notebook *Training.ipynb* y esperamos a que se entrene nuestro modelo con nuestro dataset.
 
-4) Se creará un nuevo directorio *"runs"* y finalmente descargamos el modelo ubicado en *runs/detect/train/weights/best.pt*
+4) Se creará un nuevo directorio *"runs"* y finalmente descargamos nuestro modelo entrenado ubicado en *runs/detect/train/weights/best.pt*
