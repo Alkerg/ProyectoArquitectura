@@ -1,4 +1,4 @@
-# Proyecto formativo de Arquitectura de Computadoras CC211
+# Proyecto de Arquitectura de Computadoras
 Detector de latas usando YOLO V8
 
 
